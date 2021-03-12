@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Attributes__ *my list*
+
+1. *Attribute 1* 
+2. _Attribute 2_
+3. 😺
